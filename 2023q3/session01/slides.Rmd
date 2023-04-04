@@ -1,0 +1,134 @@
+---
+title: "1 Introducció"
+author: "Lingüística 2"
+date: "12/04/2023"
+output:
+  xaringan::moon_reader:
+    nature:
+      highlightLines: true
+      highlightStyle: github
+---
+
+```{r preamble, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
+# Avui
+
+.large[
+* Organització del curs
+
+* Sinopsi del curs
+
+* Fonètica
+
+]
+
+---
+
+class: inverse, center
+
+# Organització
+
+---
+
+# Informació bàsica
+
+.large[
+* 5 ECTS (~125-150 hores)
+
+* Material i comunicació: https://aulaglobal.upf.edu/
+
+* Equip
+   * Thomas Brochhagen (thomas.brochhagen@upf.edu)<br> https://brochhagen.github.io
+  
+   * Sebastian Buchczyk (sebastian.buchczyk@upf.edu)
+
+* Estructura
+   * Dimecres: Conceptes i discussió
+  
+   * Dilluns: Pràctica i més discussió
+
+]
+
+---
+
+# Horari grup gran
+
+> Per facilitar que els estudiants tinguin temps de canviar d'aula, caldrà deixar sempre 10 minuts de cortesia a l'inici de la sessió [...]
+
+<br><br>
+### $\Rightarrow$ 08:40 - 10:25
+
+
+
+---
+
+# Avaluació
+.large[
+* Pràctiques setmanals i qüestionaris de lectura (10%, no recuperable)
+
+* 2 exercicis pràctics (40%; 2 x 20%, no recuperable)
+
+* Examen final (50%, recuperable)
+]
+
+---
+
+# Avaluació
+
+.large[
+Pràctiques setmanals i qüestionaris de lectura (10%, no recuperable)
+
+  * A través d'Aula Global
+  
+  * Correcció automàtica
+  
+  * 5 en total
+]
+
+---
+
+# Avaluació
+
+.large[
+2 exercicis pràctics (40%; 2 x 20%, no recuperable)
+
+  * Exercici 1: 17/05
+  
+  * Exercici 2: 14/06
+
+
+]
+
+
+---
+
+# Continguts
+
+* Fonètica
+
+* Fonologia
+
+* Morfologia
+
+* Sintàxi
+
+
+---
+
+
+class: inverse
+# Propera sessió
+
+* Si n'hi ha, preguntes generals sobre el curs
+
+* Llegir Chapter 2 de Language Files (a l'Aula Global)
+
+* No hi ha lliuraments avaluables
+
+***
+
+* **Fonètica (setmana 1 i 2)**
+
