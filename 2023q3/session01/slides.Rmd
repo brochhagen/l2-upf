@@ -43,7 +43,7 @@ class: inverse, center
 * Equip
    * Thomas Brochhagen (thomas.brochhagen@upf.edu)<br> https://brochhagen.github.io
   
-   * Sebastian Buchczyk (sebastian.buchczyk@upf.edu)
+   * Sebastian Buchczyk (sebastian.buchczyk@upf.edu)<br> https://sebastianbuchczyk.github.io/
 
 * Estructura
    * Dimecres: Conceptes i discussió
