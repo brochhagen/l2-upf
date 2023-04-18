@@ -131,8 +131,8 @@ https://www.ipachart.com/
 <p style='margin-top:1em; text-align:center'>
 <b>Transcriu les paraules següents (en el teu dialecte):</b><br>
 
-<li> gat (cat) </li>
-<li> blat (cat) </li>
+<li> sac (cat) </li>
+<li> entens (cat) </li>
 <li> abans (cat) </li>
 <li> xec (cat) </li>
 <li> mig (cat) </li>
@@ -238,10 +238,6 @@ class: center, inverse
 ---
 
 <img src='son-1.png',  width="450px" height="350px", style="position:absolute; top:50px; right:200px; top:px;">
-
----
-
-<img src='pal-1.png',  width="550px" height="450px", style="position:absolute; top:50px; right:150px; top:px;">
 
 ---
 
