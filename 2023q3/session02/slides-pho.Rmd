@@ -1,0 +1,290 @@
+---
+title: "Fonètica"
+author: "Lingüística 2"
+date: "12-19/04/2023"
+output:
+  xaringan::moon_reader:
+    nature:
+      highlightLines: true
+      highlightStyle: github
+---
+
+```{r preamble, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Què és la fonètica?</b>
+</p>
+</p></span>
+</div>
+
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Quines tres disciplines importants de fonètica hi ha? Què estudia cadascuna?</b>
+</p>
+</p></span>
+</div>
+
+
+---
+
+.large[
+
+###  la fonètica és l'estudi de les unitats mínimes que componen el llenguatge
+
+<br><br>
+* **Fonètica articulatòria**<br>estudi de la producció dels sons de la parla
+
+* **Fonètica acústica**<br>estudi de la transmissió i propietats físiques dels sons de la parla
+
+* **Fonètica auditiva**<br>estudi de la percepció dels sons de la parla
+]
+
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Amb quines tres propietats articulatòries es poden definir un consonant?</b>
+</p>
+</p></span>
+</div>
+
+---
+
+# Consonants
+
+1. sonorització (estat de la glotis)
+
+2. lloc d'articulació
+
+3. manera de articulació
+
+
+---
+
+<img src='IPA-con.png',  width="700px" height="500px", style="position:absolute; top:100px; right:50px; top:px;">
+
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Quina diferència hi ha entre una consonant i una vocal?</b>
+</p>
+</p></span>
+</div>
+
+
+---
+
+# Vocals
+
+
+<img src='IPA-vo.png',  width="550px" height="450px", style="position:absolute; top:130px; right:150px; top:px;">
+
+
+---
+
+# Vocals
+
+
+<img src='vo-triangle.webp',  width="550px" height="450px", style="position:absolute; top:130px; right:150px; top:px;">
+
+---
+
+# Repàs de símbols més importants per al curs
+
+https://raw.githubusercontent.com/brochhagen/l2-upf/master/2023q3/IPA_chart_oficial_assignatura.pdf
+
+
+---
+
+# AFI/IPA sencera
+
+https://raw.githubusercontent.com/brochhagen/l2-upf/master/2023q3/Alfabet_IPA_amb_Africades_2021.pdf
+
+https://www.ipachart.com/
+
+
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Transcriu les paraules següents (en el teu dialecte):</b><br>
+
+<li> gat (cat) </li>
+<li> blat (cat) </li>
+<li> abans (cat) </li>
+<li> xec (cat) </li>
+<li> mig (cat) </li>
+</p>
+</p></span>
+</div>
+
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Transcriu les paraules següents (en el teu dialecte):</b><br>
+
+<li> perro (cast) </li>
+<li> niño (cast) </li>
+<li> llave (cast) </li>
+<li> hámster (cast) </li>
+<li> zorro (cast) </li>
+</p>
+</p></span>
+</div>
+
+
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Transcriu el teu nom i cognom</b><br>
+</p>
+</p></span>
+</div>
+
+---
+
+* Per als exercicis avaluats automàticament, utilitzeu la pàgina web per copiar/enganxar símbols: https://jmfontana.github.io/ipa-chart-phono-rules/phonology/keyboard/index.html
+
+* Clicks: https://www.youtube.com/watch?v=WHHGOYu6Fl0
+
+---
+
+
+class: center, inverse
+
+# Processos fonètics
+
+---
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>La mateixa &lt;b>?</b><br>
+<li>submarí vs. subsegüent</li>
+</p>
+</p></span>
+</div>
+
+---
+
+* su[bm]arí (de fet [βm] o [mm])
+
+* su[ps]egüent
+
+---
+
+# Assimilació parcial i total
+
+* &lt;Cangrejo> $\Rightarrow$ [kaŋgrexo]
+
+* &lt;handbag> $\Rightarrow$ [hæmbæg]
+
+* &lt;in Paris> $\Rightarrow$ [ɪm pærɪs]
+
+<br><br>
+
+* lat: &lt;octo> $\rightarrow$ it: &lt;otto>
+
+---
+
+# Assimilació a distancia / harmonia vocal
+
+* &lt;Kind> / [kint] $\Rightarrow$ &lt;Kinder> / [kinda] 
+<br><br>
+
+* Alt. Hoch Dt.: &lt;Gast> $\Rightarrow$ &lt;Gasti>
+
+* Dt.: &lt;Gast> / [gast] $\Rightarrow$  &lt;Gäste> / [gɛstə]
+
+---
+
+<img src='len-1.png',  width="550px" height="450px", style="position:absolute; top:50px; right:150px; top:px;">
+
+---
+
+<img src='len-2.png',  width="550px" height="450px", style="position:absolute; top:50px; right:150px; top:px;">
+
+---
+
+<img src='son-1.png',  width="450px" height="350px", style="position:absolute; top:50px; right:200px; top:px;">
+
+---
+
+<img src='pal-1.png',  width="550px" height="450px", style="position:absolute; top:50px; right:150px; top:px;">
+
+---
+
+<img src='vel-1.png',  width="550px" height="450px", style="position:absolute; top:50px; right:150px; top:px;">
+
+---
+
+<img src='nass-1.png',  width="550px" height="450px", style="position:absolute; top:50px; right:150px; top:px;">
+
+---
+
+<img src='aff-1.png',  width="550px" height="450px", style="position:absolute; top:50px; right:150px; top:px;">
+
+---
+
+# (In)estabilitat dels sistemes vocàlics
+# (des)equilibri espai fonològic
+
+.pull-left[
+* Basc
+
+* Italià
+
+* Espanyol
+]
+
+.pull-right[ 
+* Anglès
+
+* Francès]
+
+
+---
+
+
+class: inverse
+# Propera sessió
+
+* Practica 1: Fonètica
+
+* Qüestionari de lectura (fonologia 1a)
+
+
+***
+
+* **Fonologia: Conceptes bàsics**
