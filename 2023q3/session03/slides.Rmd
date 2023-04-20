@@ -329,7 +329,7 @@ class: inverse
 
 * Practica 2: Fonologia
 
-* Qüestionari de lectura (fonologia 1b)
+* Qüestionari de lectura (fonologia 2a)
 
 
 ***
