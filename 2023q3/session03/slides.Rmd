@@ -228,9 +228,9 @@ context.
 
 * *scoop* (anglès): *[skʰup] / [skup]
 
+--
 
-Dos sons en distribució contrastiva pertanyen a fonemes
-diferents.
+Dos sons en distribució complementària pertanyen al mateix fonema.
 
 $\Rightarrow$ [kʰ] i [k] són al·lòfons de /k/ en anglès
 
@@ -318,7 +318,7 @@ Alguns sons no poden aparèixer a l'inici d'una paraula
 
 Preferències i restriccions en estructures sil·làbiques
 
-* Anglès: V, VC, CV, ..., CCCVCCC (*strengths)
+* Anglès: V, VC, CV, ..., CCCVCCC (*strengths*)
 
 * Hawaià: CV, V
 
