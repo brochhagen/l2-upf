@@ -72,6 +72,47 @@ Representen el coneixement fonològic d'un parlant nadiu
 
 ---
 
+# Classes naturals + regles
+
+.pull-left[
+* *seat* [sit]
+
+* *loot* [lut]
+
+]
+
+.pull-right[
+* *seated* [siɾəd]
+
+* *looted* [luɾəd] 
+
+]
+
+---
+
+# Classes naturals + regles
+
+.pull-left[
+* *seat* [sit]
+
+* *loot* [lut]
+
+* *seed* [sid]
+
+]
+
+.pull-right[
+* *seated* [siɾəd]
+
+* *looted* [luɾəd] 
+
+* *seeded* [siɾəd]
+
+]
+
+
+---
+
 # Classes naturals + regles 
 
 ## /t,d/ ➔ [ɾ] / stressed vowel ___ unstressed vowel
@@ -198,7 +239,7 @@ https://en.wikipedia.org/wiki/Greenberg%27s_linguistic_universals
 
 class: inverse
 
-# Preguntes obertes sobre fonètica o fonologia?
+# Preguntes sobre fonètica o fonologia?
 
 17/05: 1er exercici pràctic
 
@@ -207,7 +248,59 @@ class: inverse
 
 class: inverse
 
-# Preguntes obertes sobre 2a practica de fonologia?
+# Preguntes sobre 2a practica de fonologia?
+
+
+---
+
+class: inverse
+
+# Més sobre fonètica i fonologia
+
+.pull-left[
+* síl·labes
+
+* suprasegmentals
+
+* L2, L3, ...
+
+* feeding; bleeding
+]
+
+.pull-right[
+
+* animals
+
+* música
+
+* ...
+
+]
+
+
+---
+
+
+<img src='bra-1.png',  width="500px" height="300px", style="position:absolute; top:50px; right:200px; top:px;">
+
+
+
+
+---
+
+<img src='bra-2.png',  width="500px" height="300px", style="position:absolute; top:0px; right:200px; top:px;">
+<img src='bra-2b.png',  width="500px" height="100px", style="position:absolute; top:350px; right:200px; top:px;">
+
+
+---
+
+
+How do you pronounce *adverso* or *futebol*?
+
+--
+
+<img src='bra-3.png',  width="500px" height="300px", style="position:absolute; top:200px; right:200px; top:px;">
+
 
 
 ---
@@ -217,9 +310,9 @@ class: inverse
 
 * Practica 2: Fonologia
 
-* Qüestionari de lectura (fonologia 2a)
+* Qüestionari de lectura (morfologia 1a)
 
 
 ***
 
-* **Continuació: Processos morfològics. L’estructura interna de les paraules i el significat.**
+* **Processos morfològics. L’estructura interna de les paraules i el significat.**
