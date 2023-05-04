@@ -1,0 +1,16 @@
+---
+title: ' Practica 4: Morfologia'
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+urlcolor: blue
+---
+
+![](luiseno.png)
+
+# Diagrames
+
+1. Feu un diagrama que descrigui adequadament l'estructura de la paraula *irreconocibles*
+
+2. Feu un diagrama que descrigui adequadament l'estructura de la paraula *desnacionalizaciones*
