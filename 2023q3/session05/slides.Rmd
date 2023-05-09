@@ -86,7 +86,7 @@ Hi ha diferents tipus de morfemes
   
   * [radical]() (stem)
   
-  * [afixos](): sufixos, prefixos, infixos
+  * [afixos](): sufixos, prefixos, infixos, circumfixos
 
 
 ---
@@ -235,6 +235,7 @@ n’hi ha menys a cada paraula (Català)
 
 * [Polisintètiques](): fins i tot morfemes que són lliures a les llengües sintètiques poden ser lligats (sora)
 
+
 ---
 
 <img src='dia-syn.png',  width="500px" height="350px", style="position:absolute; top:100px; right:150px; top:px;">
@@ -246,6 +247,22 @@ Source: Haspelmath & Michaelis (2017): Analytic and synthetic: Typological chang
 
 cf. *Der Dativ ist dem Genitiv sein Tod* vs. *Der Dativ ist der Tod des Genitivs* vs. *Der Dativ ist des Genitivs Tod*
 ]
+
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Llavors, podem concloure que algunes llengües són més complexes que altres? Quins tipus? Per què?</b><br><br><br><br>
+<b>Això vol dir també que hi ha llengües que són més difícils d'aprendre?</b><br><br>
+Per exemple, moltes vegades "al carrer" es diu que el castellà és més fàcil d'aprendre que l'alemany o el mandarí.<br><br>
+<b>Té fonament lingüístic aquesta afirmació?</b>
+</p>
+</p></span>
+</div>
+
 
 ---
 # L’estructura de les paraules
@@ -264,6 +281,27 @@ morfemes.
 
 # Exemple 1
 
+*reusable*: re- + use + -able
+
+Què ve primer *re* o *able*?
+
+--
+
+*re-*: re- + V $\Rightarrow$ V (*rewind*, *revisit*, *redo* but \*rehappy or \*rekitten)
+
+*-able*: V + -able $\Rightarrow$ A (*stoppable*, *doable*, but \*happyable or \*kittenable)
+
+---
+
+# Exemple 2
+
+*unusuable*: un- + use + -able
+
+---
+
+
+# Exemple 3
+
 *undoable*: 1) que es pot desfer. 2) que no es pot fer.
 
 --
@@ -272,7 +310,7 @@ morfemes.
 
 ---
 
-# Exemple 2
+# Exemple 3
 
 *dishonesty*: **significat?**
 
@@ -280,7 +318,7 @@ morfemes.
 
 ---
 
-# Exemple 2
+# Exemple 3
 
 *dishonesty*: La qualitat de ser deshonest.
 
@@ -358,23 +396,6 @@ unhappy, unintelligent, unpainted, *unwoman
 # Resolució de problemes morfològics
 
 **Objectiu:** Identificar els morfemes i el seu significat, així com els processos fonològics que poden estar implicats en la formació de la paraula.
-
-Exemple: en el suec *bilarna* = "cotxe"
-
-Quina part de la paraula correspon al plural? Quina part a
-l'article? Quina part a "cotxe"?
-
----
-
-# Resolució de problemes morfològics
-
-en bil = un cotxe
-
-na = gènere no neutre
-
-ar = plural
-
-
 
 ---
 
