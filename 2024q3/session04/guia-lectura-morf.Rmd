@@ -1,0 +1,43 @@
+---
+title: 'Guia d''estudi apartats 4.0-4.3 1a lectura de morfologia.'
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+urlcolor: blue
+---
+
+L’objectiu d’aquesta lliçó és adquirir els coneixements que es llisten a continuació en forma de preguntes. Pots complementar la lectura del llibre de text amb altres fonts d’informació que t’ajudin a respondre aquestes preguntes.
+
+Si tens algun dubte o hi ha alguna cosa que no entens de la lectura o de les altres fonts
+d’informació que has consultat, pregunta! Hi ha un fòrum habilitat per cada una de les lectures.
+
+1. Què és la morfologia i quins aspectes del llenguatge humà estudia?
+
+2. Què és un morfema i quins tipus de morfemes hi ha?
+
+3. Quina és la relació entre l'estudi de la morfologia i l'estudi del significat?
+
+4. Sabem que les frases tenen una estructura interna que anomenem estructura sintàctica. Podem dir també que les paraules tenen una estructura interna? Què volem dir quan parlem de l'estructura interna d'una paraula?
+
+5. Què és el lexicó d'una llengua o d'una persona i com està organitzat?
+
+6. Quina diferència hi ha entre un morfema i una seqüència de fonemes dins una paraula?
+
+7. Què és la derivació i la flexió en el context de la morfologia?
+
+8. Com podem saber si un determinat morfema és un morfema flexiu o un morfema derivacional?
+
+9. Què són les paraules de classe oberta ("open lexical categories") i les paraules de classe tancada ("closed lexical categories")?
+
+10. Quina és la diferència entre el terme arrel o lexema ("root") i el terme radical ("stem")? Poden haver-hi paraules on el segment que considerem l'arrel coincideixi amb el que considerem el radical?
+
+11. Com afecta la categoria lèxica de l'arrel o del radical als processos de formació de paraules?
+
+12. Què és l'homofonia? Per què diem que els morfemes de plural i de 3a persona del singular en anglès són homòfons?
+
+13. Què són els morfemes lliures ("free") i els morfemes lligats ("bound")? Els afixos són morfemes lliures o morfemes lligats? Què és una base lligada ("bound root")
+
+14. De què parlem quan diem que un morfema o procés morfològic és productiu o no és productiu en una determinada llengua?
+
+15. Què són els processos morfològics i quins són els principals tipus de processos morfològics que podem trobar a les llengües del món?
