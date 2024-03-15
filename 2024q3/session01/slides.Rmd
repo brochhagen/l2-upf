@@ -1,8 +1,8 @@
 ---
 title: "1 Introducció"
 author: "Lingüística 2"
-date: "12/04/2023"
-output:
+date: "03/04/2024"
+output: 
   xaringan::moon_reader:
     nature:
       highlightLines: true
@@ -43,7 +43,7 @@ class: inverse, center
 * Equip
    * Thomas Brochhagen (thomas.brochhagen@upf.edu)<br> https://brochhagen.github.io
   
-   * Sebastian Buchczyk (sebastian.buchczyk@upf.edu)<br> https://sebastianbuchczyk.github.io/
+   * Marina Bolea Centelles (marina.bolea@upf.edu)
 
 * Estructura
    * Dimecres: Conceptes i discussió
@@ -83,9 +83,9 @@ Pràctiques setmanals i qüestionaris de lectura (10%, no recuperable)
 
   * A través d'Aula Global
   
-  * Correcció automàtica
+  * Correcció automàtica (amb correció retroactiva en cas de múltiples opcions)
   
-  * 5 en total
+  * 6 en total
 ]
 
 ---
@@ -95,9 +95,9 @@ Pràctiques setmanals i qüestionaris de lectura (10%, no recuperable)
 .large[
 2 exercicis pràctics (40%; 2 x 20%, no recuperable)
 
-  * Exercici 1: 17/05
+  * Exercici 1: 6/05 (seminari)
   
-  * Exercici 2: 14/06
+  * Exercici 2: 5/06 (grup gran)
 
 
 ]
