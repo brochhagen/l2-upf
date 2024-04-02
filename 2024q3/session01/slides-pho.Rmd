@@ -15,6 +15,18 @@ library(ggplot2)
 ```
 
 
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Què estudia la fonètica?</b>
+</p>
+</p></span>
+</div>
+
+
+---
+
 .large[
 
 ###  la fonètica és l'estudi de les unitats mínimes que componen el llenguatge
@@ -30,6 +42,30 @@ library(ggplot2)
 
 ---
 
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Pots pensar en unitats més petites del llenguatge que els sons?
+<br>
+Per què no són les lletres les unitats mínimes del llenguatge?</b>
+</p>
+</p></span>
+</div>
+
+
+---
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Tenen una fonètica totes les llengües?</b>
+</p>
+</p></span>
+</div>
+
+---
 
 <br><br><br><br>
 <div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
@@ -52,7 +88,8 @@ library(ggplot2)
 <div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
 <span>
 <p style='margin-top:1em; text-align:center'>
-<b>Com produïm la paraula  &lt;gat>?</b>
+<b>Com produïm la paraula  &lt;gat>?
+</b>
 </p>
 </p></span>
 </div>
@@ -90,6 +127,11 @@ library(ggplot2)
 This is for acoustic phonetics
 
 ---
+
+# [Praat](https://www.fon.hum.uva.nl/praat/)
+
+---
+
 
 <br><br><br><br>
 <div class="warning" style='padding:0.1em; background-color:#ffc559; color:#000000'>
@@ -221,13 +263,11 @@ class: center, inverse
 
 ---
 
-# I en català?
+# I en català o castellà?
 
 * **Bilabial**: 
 
-* **Labiodental**: 
-
-* **Interdentals**: 
+* **Dental**: 
 
 * **Alveolar**: 
 
@@ -237,13 +277,26 @@ class: center, inverse
 
 * **Glottal**: 
 
+???
+
+bilabial: pare / bandera / mon / infermera
+dental: tot / dit 
+alveolar: nou, rapid, maRe, suc, caSa, 
+post-alveolar: lluna, llenya, cavall, caixa, iogurt
+velar: suc, gos, fang, sang, 
+
+
+
+
+
+
 ---
 
 * **Stops**: prompt, boom, kale, ...
 
 * **Fricatives**: foam, ship, zoom, ..
 
-* **Affricates**: church, migdia, jutge, ...
+* **Affricates**: church, jutge, ...
 
 * **Nasals**: meu, neu, sang, ...
 
