@@ -1,7 +1,7 @@
 ---
 title: "Fonètica"
 author: "Lingüística 2"
-date: "12-19/04/2023"
+date: "10/04/2023"
 output:
   xaringan::moon_reader:
     nature:
@@ -39,20 +39,6 @@ library(ggplot2)
 
 ---
 
-.large[
-
-###  la fonètica és l'estudi de les unitats mínimes que componen el llenguatge
-
-<br><br>
-* **Fonètica articulatòria**<br>estudi de la producció dels sons de la parla
-
-* **Fonètica acústica**<br>estudi de la transmissió i propietats físiques dels sons de la parla
-
-* **Fonètica auditiva**<br>estudi de la percepció dels sons de la parla
-]
-
----
-
 
 <br><br><br><br>
 <div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
@@ -62,17 +48,6 @@ library(ggplot2)
 </p>
 </p></span>
 </div>
-
----
-
-# Consonants
-
-1. sonorització (estat de la glotis)
-
-2. lloc d'articulació
-
-3. manera de articulació
-
 
 ---
 
@@ -124,6 +99,15 @@ https://www.ipachart.com/
 
 ---
 
+# Nota sobre consens d'inventoris
+
+
+[https://joaquimllisterri.cat/](https://joaquimllisterri.cat/)
+
+
+
+---
+
 
 <br><br><br><br>
 <div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
@@ -161,21 +145,7 @@ https://www.ipachart.com/
 
 ---
 
-
-<br><br><br><br>
-<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
-<span>
-<p style='margin-top:1em; text-align:center'>
-<b>Transcriu el teu nom i cognom</b><br>
-</p>
-</p></span>
-</div>
-
----
-
 * Per als exercicis avaluats automàticament, utilitzeu la pàgina web per copiar/enganxar símbols: https://jmfontana.github.io/ipa-chart-phono-rules/phonology/keyboard/index.html
-
-* Clicks: https://www.youtube.com/watch?v=WHHGOYu6Fl0
 
 ---
 
@@ -269,6 +239,17 @@ class: center, inverse
 
 * Francès]
 
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+L'evolució de la fonètica de les llengües del món té direccionalitat?
+</p>
+</p></span>
+</div>
 
 ---
 
