@@ -1,7 +1,7 @@
 ---
 title: "Sintaxi 1"
 author: "Lingüística 2"
-date: "24/05/2023"
+date: "15/05/2024"
 output:
   xaringan::moon_reader:
     nature:
@@ -33,17 +33,24 @@ library(ggplot2)
 
 * Per què els filòlegs van inventar categories com Nom, Verb, Adjectiu, Adverbi, Preposició, Determinant, Conjunció, Pronom, o Verb auxiliar?
 
---
+
+---
+
+# Les categories lèxiques
+
 
 * Quantes categories lèxiques hi ha? Quines són?
 
---
+
+---
+
+# Les categories lèxiques
 
 * Com sabem si una paraula és un Nom, Verb, etc.?
 
-***
+---
 
---
+# Les categories lèxiques
 
 **La sintaxi:** Les regles que ens diuen com poden combinar-se
 diferents categories lèxiques d’una llengua per formar
@@ -52,6 +59,13 @@ que puguin ser interpretades correctament des d’un punt de
 vista semàntic.
 
 ---
+
+# Les categories lèxiques
+
+De quines categories lèxiques és la paraula **cap**?
+
+---
+
 
 # Les categories lèxiques
 
@@ -98,12 +112,6 @@ formen part d’altres sintagmes.
 
 L’estructura reflecteix el significat.
 <img src='mongetes.png' width='75%', height='75%'>
-
----
-
-class: inverse
-
-# Claudàtor-gate
 
 ---
 
@@ -383,7 +391,3 @@ class: inverse
 
 * 2a lectura de sintaxi i questionari 
 
-
-***
-
-* Segona prova pràctica puntuable (morfologia i sintaxi): 14/06
