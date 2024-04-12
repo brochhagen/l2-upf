@@ -1,0 +1,88 @@
+---
+title: "Pràctica, repàs, i altres temes de lingüística"
+author: "Lingüística 2"
+date: "29/05/2024"
+output:
+  xaringan::moon_reader:
+    nature:
+      highlightLines: true
+      highlightStyle: github
+---
+
+```{r preamble, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
+# Avui
+
+
+* Prova puntuable (fonètica i fonologia)
+
+* Pràctica (morfologia i sintaxi)
+
+* Altres temes de lingüística
+
+
+---
+
+class: inverse
+
+# Prova puntuable (fonètica i fonologia)
+
+---
+
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Especifica l'arbre sintàctic de les frases següents</b>
+<br><br><br>
+
+<li> Nosaltres som traductors de pel·lícules de Hollywood. </li>
+<li> Nosaltres som traductors joves.</li>
+<li> Jo sóc una dona feliç i contenta.</li>
+<li> The dog chased the burglar out of the house.</li>
+<li> Som traductors.</li>
+
+</p>
+</p></span>
+</div>
+
+---
+
+<br><br><br><br>
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Especifica l'arbre morfològic de les paraules següents</b>
+<br><br><br>
+
+<li> deconstrucció </li>
+<li> unsuitable </li>
+<li> replantejaments</li>
+
+
+</p>
+</p></span>
+</div>
+
+
+---
+
+class: inverse
+
+# Altres temes de lingüística 
+
+
+---
+
+class: inverse
+# Propera sessió 
+
+* Segona prova pràctica puntuable (sense full): 05/06
+
+***
+
+* Examen: 12/06 (Un full doble amb notes)

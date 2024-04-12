@@ -1,7 +1,7 @@
 ---
 title: "Sintaxi 2"
 author: "Lingüística 2"
-date: "31/05/2023"
+date: "22/05/2024"
 output:
   xaringan::moon_reader:
     nature:
@@ -284,11 +284,3 @@ class: inverse
 * Dubtes sobre els continguts del curs  
 
 * Més pràctica amb arbres
-
-* Prova puntuable 1 (fonètica i fonologia)
-
-***
-
-* Segona prova pràctica puntuable (morfologia i sintaxi): 14/06
-
-* Examen: 22/06
