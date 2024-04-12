@@ -330,3 +330,8 @@ class: inverse
 ***
 
 * **Processos morfològics. L’estructura interna de les paraules i el significat.**
+
+* Primera prova pràctica puntuable (fonètica i fonologia).
+
+La prova és amb paper i llapis. Pots portar un (1) full A4 amb apunts.La prova és amb paper i llapis. Pots portar un (1) full A4 amb apunts.
+Recomanació: Imprimeix el full de l'AFI i fes-ne els apunts.Recomanació: Imprimeix el full de l'AFI i fes-ne els apunts.
