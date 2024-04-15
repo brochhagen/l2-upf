@@ -15,6 +15,48 @@ library(ggplot2)
 ```
 
 
+# Terminologia
+
+.pull-left[
+
+* Bilabials
+  
+* Labiodentals
+  
+* Dentals
+  
+* (Post-)alveolars
+  
+* Retroflexes
+  
+* Palatals
+  
+* Velars
+  
+* Uvulars
+    
+* Glotals
+]
+
+.pull-right[
+* Oclusiva
+
+* Nasal
+
+* Vibrant
+
+* Bategant
+
+* Fricativa
+
+* Aproximant
+
+* Africada
+
+]
+
+---
+
 <br><br><br><br>
 <div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
 <span>
