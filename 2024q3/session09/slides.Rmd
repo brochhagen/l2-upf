@@ -1,5 +1,5 @@
 ---
-title: "Pràctica, repàs, i altres temes de lingüística"
+title: "Pràctica per prova puntuable i examen"
 author: "Lingüística 2"
 date: "29/05/2024"
 output:
@@ -17,20 +17,11 @@ library(ggplot2)
 # Avui
 
 
-* Prova puntuable (fonètica i fonologia)
-
 * Pràctica (morfologia i sintaxi)
 
-* Altres temes de lingüística
-
 
 ---
 
-class: inverse
-
-# Prova puntuable (fonètica i fonologia)
-
----
 
 
 <br><br><br><br>
@@ -40,11 +31,10 @@ class: inverse
 <b>Especifica l'arbre sintàctic de les frases següents</b>
 <br><br><br>
 
-<li> Nosaltres som traductors de pel·lícules de Hollywood. </li>
-<li> Nosaltres som traductors joves.</li>
-<li> Jo sóc una dona feliç i contenta.</li>
-<li> The dog chased the burglar out of the house.</li>
-<li> Som traductors.</li>
+<li> They broke the gate to their cage from its hinges with their bare hands. </li>
+<li> Cap altre amor és més gran que el meu amor per la música de cambra.</li>
+<li> George and my older sister called the man from Ohio with your phone.</li>
+<li> Los niños de la vecina de Juan ensuciaron y rompieron esos cojines tan raros esta mañana.</li>
 
 </p>
 </p></span>
@@ -59,21 +49,20 @@ class: inverse
 <b>Especifica l'arbre morfològic de les paraules següents</b>
 <br><br><br>
 
-<li> deconstrucció </li>
-<li> unsuitable </li>
-<li> replantejaments</li>
+<li> inexplicables </li>
+<li> insinceritat </li>
+<li> inconstitucional </li>
+<li> manliness </li>
+<li> unaffordable </li>
+<li> unamerican </li>
+<li> impersonal </li>
+<li> irreplaceable </li>
 
 
 </p>
 </p></span>
 </div>
 
-
----
-
-class: inverse
-
-# Altres temes de lingüística 
 
 
 ---
